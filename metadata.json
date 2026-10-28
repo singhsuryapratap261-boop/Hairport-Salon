@@ -1,0 +1,6 @@
+{
+  "name": "Hairport Salon Moradabad - Salon Billing & Reminders",
+  "description": "Hairport Salon Moradabad customer visits diary, automatic WhatsApp billing, next service due date, and 3-day reminder inquiry tracking system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
